@@ -9,4 +9,6 @@ For the past few months, Airbnb has seen a major decline in revenue. Now that th
 - What are the most popular localities and properties in New York currently?
 
 ### Business Goal
-To prepare for the next best steps that Airbnb needs to take as a business by analyse a dataset consisting of various Airbnb listings in New York. Based on this analysis, present the insights to the two groups - Lead Data Analyst or Data Analaysis Managers and Head of Acquisitions and Operations or Head of User Experience. This case study's main emphasis was on data storytelling.
+To prepare for the next best steps that Airbnb needs to take as a business by analyse a dataset consisting of various Airbnb listings in New York. Based on this analysis, present the insights to the two groups - Lead Data Analyst or Data Analaysis Managers and Head of Acquisitions and Operations or Head of User Experience. This case study's emphasis was on data storytelling.
+
+Tableau Public - https://public.tableau.com/views/AirbnbNYC_16663455279710/Top20HostListing?:language=en-US&:display_count=n&:origin=viz_share_link
